@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    padding-top: 800px;
 }
 #soccor{
     width:300px;
@@ -51,6 +52,7 @@ a{
 #myhoddy{
     font-family: 'Calligraffitti', cursive;
 }
-.link: hover{
-    background-color: aqua;
+.link: h0ver{
+  background-color: aqua;
+    
 }
